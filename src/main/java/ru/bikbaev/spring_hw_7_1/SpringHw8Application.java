@@ -1,4 +1,4 @@
-package ru.bikbaev.spring_hw_8;
+package ru.bikbaev.spring_hw_7_1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
